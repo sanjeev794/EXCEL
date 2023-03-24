@@ -1,0 +1,38 @@
+1.  Macros for Excel are instructions you can customise to complete repetitive tasks automatically.
+    Implementing macros in different types of software can help save users time when 
+    working on repetitive tasks,like filling in cells.
+
+2. Visual Basic for Applications is a computer programming language developed and owned by Microsoft. 
+   With VBA you can create macros to automate repetitive word and 
+   data-processing functions, and generate custom forms, graphs, and reports.
+
+
+3. On the Developer tab, click Record Macro. 
+   Optionally,enter a name for the macro in the Macro name box, 
+   enter a shortcut key in the Shortcut key box, and a description in the Description box, 
+   and then click OK to start recording.
+
+step 1. first go to devloper tab,click on macro 
+step 2. fill the name of table,
+        then create shortcut key 
+step 3. start recording then create a table
+step 4. after creating table stop the recording
+step 5. go to next sheet then select the macro name it automatically
+        create that table
+
+
+4.  Microsoft Visual Basic for Applications (VBA) enables non-programmers to record, create 
+     and edit macros that can automate tasks in Office applications.
+
+5.  The Visual Basic editor, also called the VBA editor, VB editor, or VBE, is an interface for creating scripts.
+    VBA (Visual Basic for Applications) is the coding language that's used to create these scripts.
+               
+           The Properties window is used to display properties for objects selected in the
+           two main types of windows available in the Visual Studio integrated development environment (IDE).
+    1.Tool windows such as Solution Explorer, Class View, and Object browser
+    2.Document windows containing such editors and designers as the forms designer,
+       XML editor, and HTML editor
+
+
+6.The Immediate window displays information resulting from debugging statements in your code or
+  from commands typed directly into the window.
