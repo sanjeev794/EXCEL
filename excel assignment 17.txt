@@ -1,0 +1,55 @@
+1.  Three different flavors in VBA: Standard, Object, and Class modules.
+          VBA helps to make frequent everyday tasks less repetitive via macros.
+          Macros can automate just about any task—like generating customized charts and reports, 
+          and performing word- and data-processing functions.
+
+2.Class module:  This module is used to create objects at run time. 
+                Class module are used by Advanced VBA programmers and will be covered at a later stage.
+  
+Module:  A VBA module is used to store any VBA code that you have written in the VBE (Visual Basic Editor).
+              The modules are contained within a VBA Project and when the file is saved – 
+              be it an Excel workbook, Word document or Access database, the module or modules are saved within that file
+              that file is essentially the parent application of the module
+ 
+3.  A procedure tells the application how to perform a specific task.
+    Use procedures to divide complex code tasks into more manageable units. 
+    To create a procedure by writing code. Open the module for which you want to write the procedure.
+               
+            Property procedure:
+                            A property procedure is a series of Visual Basic statements that allow 
+                            a programmer to create and manipulate custom properties. 
+            Function procedure:
+                           A Function procedure is a series of Visual Basic statements enclosed
+                           by the Function and End Function statements
+
+4.  A procedure tells the application how to perform a specific task.
+    Use procedures to divide complex code tasks into more manageable units. 
+    To create a procedure by writing code. Open the module for which you want to write the procedure.
+               
+            Property procedure:
+                            A property procedure is a series of Visual Basic statements that allow 
+                            a programmer to create and manipulate custom properties. 
+            Function procedure:
+                           A Function procedure is a series of Visual Basic statements enclosed
+                           by the Function and End Function statements
+
+5.   A Sub procedure is a series of Visual Basic statements enclosed by the Sub and End Sub statements.
+     The Sub procedure performs a task and then returns control to the calling code,
+     but it does not return a value to the calling code.
+            
+            A sub procedure can take two forms, i.e., private and public.
+                   The private sub procedure can only be used in the current module.
+
+6.  Step 1: Select the Statements from code.
+    Step 2: Click on View -> Toolbars -> Customize.
+    Step 3: From Customize Window Click on Commands -> Edit, then select Comment Block.
+               select all the lines and then use the comment button from the toolbar or you can also add an apostrophe
+               at the starting of each line. The moment you click the comment button 
+                it will convert all the lines into a multi-line comment block
+
+7.  Step 1: Select the Statements from code.
+    Step 2: Click on View -> Toolbars -> Customize.
+    Step 3: From Customize Window Click on Commands -> Edit, then select Comment Block.
+               select all the lines and then use the comment button from the toolbar or you can also add an apostrophe
+               at the starting of each line. The moment you click the comment button 
+                it will convert all the lines into a multi-line comment block
