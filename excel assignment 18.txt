@@ -1,0 +1,36 @@
+1.  Commenting involves placing Human Readable Descriptions inside of computer programs detailing what the Code is doing. 
+    Proper use of commenting can make code maintenance much easier, as well as helping make finding bugs faster.
+    Further, commenting is very important when writing functions that other people will use.
+
+
+2. The CALL statement transfers control from one object program to another within the run unit. 
+   The program containing the CALL statement is the calling program; the program identified in the CALL statement is the called subprogram.
+
+3.You can compile your VBA code by clicking Debug Menu → Compile VBA Project.
+        A compilation error can also occur when VBA doesn't find anything missing while typing the code, 
+        but it does when the code is compiled or executed.
+        VBA checks each line as you're typing the code and highlights the syntax error as soon as the line is incorrect and you hit enter.
+
+
+4.    Shortcut	                                                Windows
+    (i)Jump between Excel and the VB Editor Window	         Alt+F11	
+    (ii)Run Macro/Procedure	                                 F5	
+    (iii)Step Through Each Line of Code	                         F8	
+    (iv)Run to Cursor	                                         Ctrl+F8
+                          
+                   Begin keyboard shortcuts with CTRL or a function key.
+                   Press the TAB key repeatedly until the cursor is in the Press new shortcut key box. 
+                   Press the combination of keys that you want to assign.
+
+5. step 1. first create a table for a sqare root number
+   step 2. click on macro and start record
+   step 3. then select a number then write a formula=SQRT(B2)
+   step 4.then stop recording
+   step 5. after the given table which i want to calculate click the shortcut 
+           key which we assign on creating the macro 
+
+6.Run the code : Pressing F8
+  Step into code: F8 key
+  Step out of code: press Ctrl+Shift+F8
+  reset the code:Alt,R
+
