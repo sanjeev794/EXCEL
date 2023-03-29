@@ -1,0 +1,20 @@
+1.Integer,Single,Double ,Date,String,Boolean.
+
+2. Variables can be declared as one of the following data types: 
+   Boolean, Byte, Integer, Long, Currency, Single, Double, Date, 
+  String (for variable-length strings), String * length (for fixed-length strings),
+  Object, or Variant.
+                 If you don't specify a data type, the Variant data type is assigned by default.
+
+3.  Range is a property in VBA that helps specify a particular cell, a range of cells, a row, a column,
+    or a three-dimensional range. In the context of the Excel worksheet, 
+    the VBA range object includes a single cell or multiple cells spread across various rows and columns.
+
+4.All Worksheets are Sheets, but not all Sheets are Worksheets. 
+
+5. Columns are identified by letters (A, B, C) and rows are identified by numbers (1, 2, 3). 
+   In Excel, this is known as the A1 reference style. However some prefer to use a different method where columns are also identified by numbers. 
+   This is known as the R1C1 reference style.
+
+6. VBA Offset function one may use to move or refer to a reference
+   skipping a particular number of rows and columns.
