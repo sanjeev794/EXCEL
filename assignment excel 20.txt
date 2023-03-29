@@ -1,0 +1,28 @@
+1. sub abc()
+   dim num as integer
+   num =CInt(inputbox("please enter any integer"))
+   if num Mod 2<> 1 then
+   MsgBox str(num) +"is a Even Number"
+   else
+   MsgBox str(num) +"is a odd number"
+   End if
+   End sub
+
+3.In Visual Basic, errors fall into one of three categories: 
+  syntax errors, run-time errors, and logic errors.
+
+4. Use the Resume Next statement with On Error. 
+
+5. (i)  Use 'On Error Go [Label]' at the beginning of the code.
+   (ii) Use 'On Error Resume Next' ONLY when you're sure about the errors that can occur.
+   (iii) When using error handlers, make sure you're using Exit Sub before the handlers.
+   (iv) Use multiple error handlers to trap different kinds of errors.
+
+6.  With VBA, you can create a custom Function (also called a User Defined Function) that can be used in the worksheets just like regular functions.
+    These are helpful when the existing Excel functions are not enough.
+           Function Mul() As Double
+           Dim C As Integer
+           C = ActiveCell.Column
+           Mul = Cells(11, C) * Cells(115, C)
+           End Function
+   
